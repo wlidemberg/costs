@@ -1,11 +1,7 @@
 
 const Company = () => {
     return(
-      
-            <section>
-                <h1>Company</h1>
-            </section>
-       
+        <h1>Company</h1>
     )
 }
 
