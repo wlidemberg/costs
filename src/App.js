@@ -23,7 +23,7 @@ function App() {
           <div>
             <NavBar/>
           </div>
-            <Container custonClass='min-heigth'>
+            <Container>
               <Routes>
                 <Route exact path='/' element={<Home />} />
                 <Route path='/company' element={<Company />} />
